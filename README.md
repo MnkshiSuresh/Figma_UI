@@ -2,10 +2,16 @@
 
 This repository showcases a design created in Figma. You can explore the interactive prototype using the embedded viewer below:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7p43i8dPpRT4o6y8VOfwLM%2FMeenakshi-Suresh%3Fnode-id%3D102-46%26t%3DA5lmMbPATjQBMvMA-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1" allowfullscreen></iframe>
+[View Figma Prototype](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7p43i8dPpRT4o6y8VOfwLM%2FMeenakshi-Suresh%3Fnode-id%3D102-46%26t%3DA5lmMbPATjQBMvMA-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1)
 
-![Screenshot (96)](https://github.com/user-attachments/assets/9407e072-97b6-453c-860a-85aab7c2a5d0)
+
+![Screenshot (97)](https://github.com/user-attachments/assets/104ed05f-e212-4ea9-846f-85b460f9fb1d)
+
+
+
 ![Screenshot (58)](https://github.com/user-attachments/assets/607b4239-26dd-43ce-9066-d56de0761b48)
+
+
 
 ## Overview
 
