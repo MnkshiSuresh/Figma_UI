@@ -2,7 +2,7 @@
 
 This repository showcases a design created in Figma. You can explore the interactive prototype using the embedded viewer below:
 
-[View Figma Prototype](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F7p43i8dPpRT4o6y8VOfwLM%2FMeenakshi-Suresh%3Fnode-id%3D102-46%26t%3DA5lmMbPATjQBMvMA-1%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1)
+[View Figma Prototype](https://www.figma.com/proto/7p43i8dPpRT4o6y8VOfwLM/Meenakshi-Suresh?node-id=102-132&scaling=scale-down&content-scaling=fixed&t=RB3ZcpIXHQC4r8iB-1)
 
 
 ![Screenshot (97)](https://github.com/user-attachments/assets/104ed05f-e212-4ea9-846f-85b460f9fb1d)
